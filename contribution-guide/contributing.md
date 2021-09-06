@@ -6,7 +6,7 @@ Thank you for your interest to contribute to the GADS project gallery and docume
 
 ## Ways you can contribute to the project
 
-Once you have made a contribution, you will be added to the [GADS contributors](https://github.com/gads-projects/doc/blob/main/contributor.md). Here are ways you can contribute to the GADS project gallery doc project:
+* Update outdated information in the [doc repo](https://github.com/gads-projects/doc) or [gallery repo](https://github.com/gads-projects/gallery)
 
 
 * Add your GADS projects to the [gallery repo](https://github.com/gads-projects/gallery)
